@@ -1,7 +1,5 @@
-name: Zola on GitHub Pages
-
 on: push
-name: Build and deploy GH Pages
+name: Zola on GitHub Pages
 jobs:
   build:
     runs-on: ubuntu-latest
