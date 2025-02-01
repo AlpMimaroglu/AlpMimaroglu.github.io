@@ -1,5 +1,5 @@
 +++
-title = "Should you learn touch typing"
+title = "Should you learn touch typing?"
 date = "2025-01-14T00:00:00Z"
 modified = "2025-01-14T00:00:00Z"
 category = "Productivity"
@@ -9,15 +9,13 @@ authors = ["Alparslan Mimaroglu"]
 summary = "Summarizing if or why a person should learn how to touch type"
 +++
 
-# Should you learn touch typing?  
-
 Is there any value spending time and learning how to touch type in the era of powerful IDEs,
 AI autocompletion, or AI simply being able to churn out pages and pages of code in seconds.
 This was the question I asked myself and tried to answer surfing the internet.
 If you want the short answer contrary to what Betteridge law of headlines would 
 suggest is a resounding YES! If you are spending any significant time in front of a computer,
 enough to be curious enough to ask the question should I learn how to touch type my opinion is that you should. 
-
+  
 For the longest time I have used computers using the standard gamer hand positioning 
 (pinky to index, shift-A-W-D) and using 6-7 fingers to type some characters from the heart 
 and some characters hunting & pecking. I would have considered myself a regular typer and would
@@ -42,7 +40,7 @@ Being completely locked in, being in the zone, having your head in the game, all
 Only way to do it is paying your full attention to what you have in front of you and completely losing yourself in the work.
 That is simply much much harder to do when you have to stop thinking about what you are doing 
 and have to focus on where is the '|' key on my keyboard.
-
+  
 Another benefit is that I used to think that I would never be able to use vim keybindings because it seemed 
 like only gods chosen people would be able to accomplish such a feat. I tried to use vim keybinding a couple 
 of times before I learned touch typing and never was able to memorize the keybindings. It seems obvious now 
@@ -52,7 +50,7 @@ more moves so you can execute them by muscle memory but if muscle memory fails y
 You just need to think "what was the letters for the keybinding" and not the hand position. I think vim tutorials 
 would be much more approachable if they explicitly mention you should seriously consider learning 
 touch typing before ever trying to learn vim. 
-
+  
 If touch typing is so good for you and if it is amazing why haven't I tried it before is a question I have asked myself 
 and there is an simple answer. Whenever I even tried to put my fingers on the home row (asdf jkl;) 
 it always felt terrible. My wrists bent in unnatural ways. I couldn't ever imagine writing in that fashion.
@@ -72,10 +70,10 @@ If you are prone to making some mistakes now and then they are not forgiving. I 
 considering buying a new keyboard with mechanical switches, either go with a tactile switch or a linear switch with a really 
 high actuation force and resistance. 
 I would like to add please if you are considering how to learn touch typing do consider buying a comfortable keyboard. 
-
+  
 If you are convinced that knowing how to touch type is valuable and you either have a comfortable keyboard or planning to buy one, 
 let's dive into how you can learn how to touch type. 
-
+  
 Good news is you don't need much. I only used two resources, [TypingClub](https://typingclub.com) and [MonkeyType](https://monkeytype.com).
 Both are fantastic. TypingClub has a subscription option but I have never used it.
 My recommendation would be to start with a resource like TypingClub to learn how to touch type before even visiting MonkeyType. 
@@ -91,12 +89,12 @@ Thankfully that stage of the learning process does not take that long. If you pr
 as fast as you were doing before you started touch typing and simply this would be great because you will be able to achieve this speed without 
 looking at the keyboard and breaking your focus. Probably not a lot of people would stop at this stage if they started though. If you can 
 try to go up to something like 70-80 words per minute that is a more reasonable place to stop pushing yourself. 
-
+  
 While studying with TypingClub once you are at your old typing speed with touch typing that is the point to introduce MonkeyType. 
 I would suggest not using the regular English word list but using English 1k or 5k. Also enabling punctuation and numbers. They 
 really slow you down but in regular life they are constantly used so why not practice them. I try to do at least 3 MonkeyType sessions everyday 
 to keep my typing skills sharp. Do whatever feels like best to you. 
-
+  
 Knowing your tools is a good mantra to live by. I am striving to learn more about computers and other tools I am using everyday more and more. 
 Knowing your tools empowers you to do more and unlocks doors that you didn't know even existed. 
 I couldn't learn vim before learning how to touch type. If you are a regular computer user and use your computer as a tool to accomplish 
